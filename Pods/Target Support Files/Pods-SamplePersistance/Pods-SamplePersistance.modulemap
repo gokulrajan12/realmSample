@@ -1,0 +1,6 @@
+framework module Pods_SamplePersistance {
+  umbrella header "Pods-SamplePersistance-umbrella.h"
+
+  export *
+  module * { export * }
+}
